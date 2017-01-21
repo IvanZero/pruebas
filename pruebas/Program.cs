@@ -10,7 +10,8 @@ namespace pruebas
     {
         static void Main(string[] args)
         {
-         //XDXDXDXDX
+            //XDXDXDXDX
+            var hola = 123;
         }
     }
 }
